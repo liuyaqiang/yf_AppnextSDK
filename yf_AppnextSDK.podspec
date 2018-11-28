@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "yf_AppnextSDK"
-s.version          = "1.8.3.1"
+s.version          = "1.9.3"
 s.summary          = "yf_AppnextSDK"
 
 s.description      = <<-DESC
